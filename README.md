@@ -1,4 +1,4 @@
-# Regime-Aware DDQN Trading Code
+# Regime-Aware-DDQN-Trading-A-Cross-Asset-Comparison-of-Market-Context-Models
 
 This folder contains the two experiment scripts used for the paper:
 
